@@ -31,12 +31,12 @@
         "reload_app_list": "Yeniden Yükle",
         "run_current": "Geçerli uygulamayı çalıştır",
         "running": "Çalışıyor",
-        "star": "Yıldızla",
+        "star": "Favorilere Ekle",
         "terminate": "Sonlandır",
         "terminate_current_app": "Geçerli uygulamayı sonlandır",
         "terminate_postfix": "\n\nKaydedilmemiş ilerleme kaybolabilir",
         "terminate_prefix": "Sonlandır ",
-        "unstar": "Yıldızı kaldır"
+        "unstar": "Favorilerden kaldır"
     },
     "common": {
         "cancel": "İptal",
@@ -137,7 +137,7 @@
         "overlay_time": "Açmak için basılı tutma süresi (saniye)",
         "overlay_zero_time": "0 (Anında)",
         "paop": "Sesi PC'de çal",
-        "quality": "Kalite (Daha yüksek ayarlar CPU hız aşırtması gerektirir)",
+        "quality": "Kalite (Daha yüksek ayarlar CPU hız aşırtması [overclock] gerektirir)",
         "request_hdr": "HDR Video Talep Et",
         "resolution": "Çözünürlük",
         "rumble_force": "Titreşim gücü",
